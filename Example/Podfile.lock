@@ -1,0 +1,23 @@
+PODS:
+  - GICDataBinding (0.1.0):
+    - GICJsonParser
+  - GICJsonParser (0.9.2)
+
+DEPENDENCIES:
+  - GICDataBinding (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GICJsonParser
+
+EXTERNAL SOURCES:
+  GICDataBinding:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GICDataBinding: d023cada0070e49a30bf47858d38fa556f17d67e
+  GICJsonParser: a547d88bb4d89dd7529c73aba9a511f0a8435bb9
+
+PODFILE CHECKSUM: 972fac95cb539d770c63ee77066b53f2a0d0a2a0
+
+COCOAPODS: 1.7.5
